@@ -190,4 +190,6 @@
         else
            printf("Its not a prime Number");
     }
-         
+    _Output:-_
+    Enter the number:23
+    Its a Prime Number
