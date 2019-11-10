@@ -79,3 +79,17 @@
      89 x 8=712
      89 x 9=801
      89 x 10=890
+**4. Program to print hello world**
+
+    #include<stdio.h>
+    int main()
+    {
+       puts("_____________");
+       puts("|Hello World"|);
+       puts("_____________");
+    }
+
+    _Output:-_
+    _____________
+    |Hello World|
+    _____________
