@@ -193,7 +193,7 @@
     Output:-
     Enter the number:23
     Its a Prime Number
-**20. Program of Multiplication of 2x2 Matrix**
+**9. Program of Multiplication of 2x2 Matrix**
   
     #include<stdio.h>
     int main()
