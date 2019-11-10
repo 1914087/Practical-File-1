@@ -118,7 +118,7 @@
     P        P             S
     P        P            S
     P        P        SSSS
-**5. Program to print a calcuator:-**
+**6. Program to print a calcuator:-**
 
     #include<stdio.h>
     int main()
