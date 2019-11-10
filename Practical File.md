@@ -1,17 +1,18 @@
-# PPS Assignment
-
-## Sarvanshdeep Singh Sahota,Civil B2, 1914100
+ #          **PROGRAMMING FOR PROGRAM SOLVING ESC-18105** 
+ ##          Sarvanshdeep Singh Sahota
+ ##          Civil B2 
+ ##          1914100
 
 **1. To Store the of marks scored by students**
        
-       #include<stdio.h>
-       int main()
+     #include<stdio.h>
+     int main()
      {
-      int i,n,marks;
-      char name[30];
-      printf("Enter the number of students:");
-      scanf("%d",&n);
-      for(i=1;i<=n;i++)
+       int i,n,marks;
+       char name[30];
+       printf("Enter the number of students:");
+       scanf("%d",&n);
+       for(i=1;i<=n;i++)
         {
            printf("Enter the name:",name);
            scanf("%s",name);
