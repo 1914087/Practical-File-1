@@ -193,3 +193,58 @@
     Output:-
     Enter the number:23
     Its a Prime Number
+**20. Program of Multiplication of 2x2 Matrix**
+  
+    #include<stdio.h>
+    int main()
+    {
+       float a,b,c,d,e,f,g,h,i,j,k,l;
+
+       printf("\nSample of Ist matrix: | a=1      b=2 |\n                      | c=3      d=4 |\n\n\
+       Sample of 2nd matrix: | e=5      f=6 |\n                      | f=7      h=8 |\n\n");
+
+       printf("Enter The Valve of a: ");
+       scanf("%f",&a);
+       printf("Enter The Valve of b: ");
+       scanf("%f",&b);
+       printf("Enter The Valve of c: ");
+       scanf("%f",&c);
+       printf("Enter The Valve of d: ");
+       scanf("%f",&d);
+       printf("Enter The Valve of e: ");
+       scanf("%f",&e);
+       printf("Enter The Valve of f: ");
+       scanf("%f",&f);
+       printf("Enter The Valve of g: ");
+       scanf("%f",&g);
+       printf("Enter The Valve of h: ");
+       scanf("%f",&h); 
+
+       i=(a*e)+(b*g);
+       j=(a*f)+(b*h);
+       k=(c*e)+(d*g);
+       l=(c*f)+(d*h);
+
+       printf("\nMultiplication of A,B is: | %.2f     %.2f |\n                          | %.2f     %.2f |",i,j,k,l);
+
+       return 0;
+    }
+
+    Output:-
+    Sample of Ist matrix: | a=1      b=2 |
+                          | c=3      d=4 |
+
+    Sample of 2nd matrix: | e=5      f=6 |
+                          | f=7      h=8 |
+
+    Enter The Valve of a: 5 
+    Enter The Valve of b: 6
+    Enter The Valve of c: 7
+    Enter The Valve of d: 3
+    Enter The Valve of e: 2
+    Enter The Valve of f: 3
+    Enter The Valve of g: 3
+    Enter The Valve of h: 5
+
+    Multiplication of A,B is: | 28.00     45.00 |
+                              | 23.00     36.00 |
