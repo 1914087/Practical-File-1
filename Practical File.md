@@ -4,7 +4,7 @@
 ##         **1914100**
 #          **GURU NANAK DEV ENGINEERING COLLEGE, LUDHIANA**
 ##         **Department of Civil Engineering**
-![LOGO]()
+![LOGO](https://raw.githubusercontent.com/01eyon/1914100/master/logo.jpg)
 **1. To Store the of marks scored by students**
        
      #include<stdio.h>
