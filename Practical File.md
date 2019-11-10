@@ -1,7 +1,7 @@
 # PPS Assignment
 ## Sarvanshdeep Singh Sahota,Civil B2, 1914100
 **1. TO Store the of marks scored by students**
-#include<stdio.h>
+     #include<stdio.h>
 int main()
 {
    int i,n,marks;
