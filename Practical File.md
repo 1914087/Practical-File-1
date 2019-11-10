@@ -93,3 +93,34 @@
     _____________
     |Hello World|
     _____________
+**5. To print PPS Using puts:-**
+
+    #include<stdio.h>
+    int main()
+    {
+       puts("zzzzzzzzzzz");
+       puts("          z");
+       puts("         z ");
+       puts("        z  ");
+       puts("       z   ");
+       puts("      z    ");
+       puts("     z     ");
+       puts("    z      ");
+       puts("   z       ");
+       puts("  z        ");
+       puts(" z         ");
+       puts("zzzzzzzzzzz");
+    }
+
+    _Output:-_
+    zzzzzzzzzzz
+             z
+            z
+           z
+          z
+         z
+        z
+       z
+      z
+     z
+    zzzzzzzzzzz
