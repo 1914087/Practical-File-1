@@ -1,8 +1,10 @@
- #          **PROGRAMMING FOR PROGRAM SOLVING ESC-18105** 
- ##          Sarvanshdeep Singh Sahota
- ##          Civil B2 
- ##          1914100
-
+#          **PROGRAMMING FOR PROGRAM SOLVING ESC-18105** 
+##         **Sarvanshdeep Singh Sahota**
+##         **Civil B2** 
+##         **1914100**
+#          **GURU NANAK DEV ENGINEERING COLLEGE, LUDHIANA**
+##         **Department of Civil Engineering**
+![LOGO]()
 **1. To Store the of marks scored by students**
        
      #include<stdio.h>
