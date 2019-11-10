@@ -24,7 +24,7 @@
         return 0;
      }
 
-    _Output:-_
+    Output:-
     Enter the number of students:4
     Enter the name:Sarvansh
     Enter the marks:6
@@ -48,7 +48,7 @@
        return 0;
     }
 
-    _Output:-_
+    Output:-
      Enter the value of a:33
      Enter the value of b:56
      The sum of a and b is 89
@@ -67,7 +67,7 @@
        return 0;
     }
 
-    _Output:-_
+    Output:-
      Enter the table you want to print:89
      89 x 1=89
      89 x 2=178
@@ -89,7 +89,7 @@
        puts("_____________");
     }
 
-    _Output:-_
+    Output:-
     _____________
     |Hello World|
     _____________
@@ -108,7 +108,7 @@
        puts("P        P             S  ");
        puts("P        P         SSSS   ");
     } 
-    _Output:-_
+    Output:-
     PPPPP    PPPPP     SSSS
     P    P   P    P   S
     P     p  P     P S
@@ -134,7 +134,7 @@
             |     0     | * |\n\
             |___________|___|\n");
     }
-    _Output:-_
+    Output:-
      _______________
     | 1 | 2 | 3 |   |
     |___|___|___|   |
@@ -159,7 +159,7 @@
         puts("        O        O       ");
         puts("         OOOOOOOO        ");
     }
-    _Output:-_
+    Output:-
          OOOOOOOO     
         O ^   ^  O
        O  -   -   O
@@ -190,6 +190,6 @@
         else
            printf("Its not a prime Number");
     }
-    _Output:-_
+    Output:-
     Enter the number:23
     Its a Prime Number
