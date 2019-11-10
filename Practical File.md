@@ -52,3 +52,30 @@
      Enter the value of a:33
      Enter the value of b:56
      The sum of a and b is 89
+**3. Program to print any table:-**
+
+    #include<stdio.h>
+    int main()
+    {
+       int x, y, z;
+       printf("Enter the table you want to print:");
+       scanf("%d",&x);
+       for(y=1;y<=10;y++)
+         {
+           printf("\n%d x %d =%d\n",x,y,z=x*y);
+         }
+       return 0;
+    }
+
+    _Output:-_
+     Enter the table you want to print:89
+     89 x 1=89
+     89 x 2=178
+     89 x 3=267
+     89 x 4=356
+     89 x 5=445
+     89 x 6=534
+     89 x 7=623
+     89 x 8=712
+     89 x 9=801
+     89 x 10=890
