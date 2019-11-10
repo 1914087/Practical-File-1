@@ -1,13 +1,16 @@
 # PPS Assignment
+
 ## Sarvanshdeep Singh Sahota,Civil B2, 1914100
-**1. TO Store the of marks scored by students**
-     #include<stdio.h>
-int main()
-{
-   int i,n,marks;
-   char name[30];
-   printf("Enter the number of students:");
-   scanf("%d",&n);
+
+**1. To Store the of marks scored by students**
+       
+       #include<stdio.h>
+       int main()
+     {
+      int i,n,marks;
+      char name[30];
+      printf("Enter the number of students:");
+      scanf("%d",&n);
    for(i=1;i<=n;i++)
    {
       printf("Enter the name:",name);
