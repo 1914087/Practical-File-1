@@ -144,3 +144,28 @@
     |___|___|___|___|
     |     0     | * |
     |___________|___|
+**7. To print a face using puts:-**
+
+    #include<stdio.h>
+    int main()
+    {
+        puts("         OOOOOOOO        ");
+        puts("        O ^   ^  O       ");
+        puts("       O  -   -   O      ");
+        puts("      O            O     ");
+        puts("     O      ^       O    ");
+        puts("      O            O     ");
+        puts("       O  -----   O      ");
+        puts("        O        O       ");
+        puts("         OOOOOOOO        ");
+    }
+    _Output:-_
+         OOOOOOOO     
+        O ^   ^  O
+       O  -   -   O
+      O            O
+     O      ^       O
+      O            O
+       O  -----   O
+        O        O 
+         OOOOOOOO
