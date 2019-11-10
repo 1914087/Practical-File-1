@@ -34,3 +34,21 @@
     Enter the marks:8
     Enter the name:Manthan
     Enter the marks:9
+**2. Program to add 2 numbers:-**
+
+    #include<stdio.h>
+    int main()
+    {
+       int a,b,c;
+       printf("Enter the value of a:");
+       scanf("%d",&a);
+       printf("Enter the value of b:");
+       scanf("%d",&b);
+       printf("The sum of a and b is %d",c=a+b);
+       return 0;
+    }
+
+    _Output:-_
+     Enter the value of a:33
+     Enter the value of b:56
+     The sum of a and b is 89
