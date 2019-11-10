@@ -98,29 +98,23 @@
     #include<stdio.h>
     int main()
     {
-       puts("zzzzzzzzzzz");
-       puts("          z");
-       puts("         z ");
-       puts("        z  ");
-       puts("       z   ");
-       puts("      z    ");
-       puts("     z     ");
-       puts("    z      ");
-       puts("   z       ");
-       puts("  z        ");
-       puts(" z         ");
-       puts("zzzzzzzzzzz");
-    }
-
+       puts("PPPPP    PPPPP      SSSS  ");
+       puts("P    P   P    P    S      ");
+       puts("P     P  P     P  S       ");
+       puts("P    P   P    P    S      ");
+       puts("PPPPP    PPPPP      SSS   ");
+       puts("P        P             S  ");
+       puts("P        P              S ");
+       puts("P        P             S  ");
+       puts("P        P         SSSS   ");
+    } 
     _Output:-_
-    zzzzzzzzzzz
-             z
-            z
-           z
-          z
-         z
-        z
-       z
-      z
-     z
-    zzzzzzzzzzz
+    PPPPP    PPPPP     SSSS
+    P    P   P    P   S
+    P     p  P     P S
+    P    p   P    P   S
+    PPPPP    PPPPP     SSS
+    P        P            S
+    P        P             S
+    P        P            S
+    P        P        SSSS
