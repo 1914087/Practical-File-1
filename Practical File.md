@@ -289,5 +289,24 @@
     Output:-
     Enter the Radius of Circle:4
     Area of Circle is 48.000
-    
-    
+
+**12. Program to Find Average of Three numbers:-**
+
+    #include<stdio.h>
+    int main()
+    {
+        float a, b, c, d;
+        printf("Enter the value of a:");
+        scanf("%f",&a);
+        printf("Enter the value of b:");
+        scanf("%f",&b);
+        printf("Enter the value of c:");
+        scanf("%f",&c);
+        printf("The average of a, b and c is %.2f",d=(a+b+c)/3);
+        return 0;
+    }
+    Output:-
+    Enter the value of a:6
+    Enter the value of b:9    
+    Enter the value of c:19
+    The average of a, b and c is 11.33
