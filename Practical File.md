@@ -452,5 +452,49 @@
     Sum of Matrix(A+B) is |7.00      8.00|
                           |11.00     10.00|
 
+**17. Program of Fizz buzz in loop:-**
+
+    #include<stdio.h>
+    int main()
+    {
+        int n,i;
+        printf("Enter The Integer:");
+        scanf("%d",&n);
+        for(i=1;i<=n;i++)
+        {
+           if(i%3==0 && i%5==0)
+           printf("Its FizzBuzz\n");
+           else if(i%3==0)
+           printf("Its Fizz\n");
+           else if(i%5==0)
+           printf("ITs Buzz\n");
+           else
+           printf("%d\n",i);
+        }
+        return 0;
+    }
+    Output:-
+    Enter The Integer:20
+    1
+    2
+    Its Fizz
+    4
+    Its Buzz
+    Its Fizz
+    7 
+    8
+    Its Fizz 
+    Its Buzz
+    11
+    Its Fizz
+    13
+    14
+    Its FizzBuzz
+    16
+    17
+    Its Fizz
+    19
+    Its Buzz
+
 
 
