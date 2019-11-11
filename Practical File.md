@@ -272,4 +272,22 @@
     Enter the 1st Value:5
     Enter the 2nd Value:4
     Multiplication of a and b is 20.000
+
+**11. Program to find Area of the Circle:-**
+    
+    #include<stdio.h>
+    int main()
+    {
+        float r, A;
+        float pi = 22/7;
+        printf("Enter the Radius of Circle:");
+        scanf("%f",&r);
+        A = pi*r*r;
+        printf("Area of Circle is %.3f",A);
+        return 0;
+    }
+    Output:-
+    Enter the Radius of Circle:4
+    Area of Circle is 48.000
+    
     
