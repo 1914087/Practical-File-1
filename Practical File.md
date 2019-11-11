@@ -248,3 +248,28 @@
 
     Multiplication of A,B is: | 28.00     45.00 |
                               | 23.00     36.00 |
+**10. Program to multily 2 numbers using Function:-**
+
+    #include<stdio.h>
+    float guna(float a, float b);
+    int main()
+    {
+        float a, b, multi;
+        printf("Enter the 1st Value:");
+        scanf("%f",&a);
+        printf("Enter the 2nd Value:");
+        scanf("%f",&b);
+        multi=guna(a,b);
+        printf("Multiplication of a and b is%.3f", multi);
+        return 0;
+    }
+    float guna(float a, float b)
+       {
+          return a*b;
+       }
+
+    Output:-
+    Enter the 1st Value:5
+    Enter the 2nd Value:4
+    Multiplication of a and b is 20.000
+    
