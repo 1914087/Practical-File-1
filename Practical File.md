@@ -496,5 +496,29 @@
     19
     Its Buzz
 
+**18. Program of while loop:-
+
+    #include<stdio.h>
+    int main()
+    {   
+       int x=1;
+       while(x<=10)
+       {
+           printf("%d\n",x);
+           x++;  
+       }
+       return 0;
+    }
+    Output:-
+    1
+    2 
+    3
+    4
+    5
+    6
+    7 
+    8
+    9
+    10
 
 
