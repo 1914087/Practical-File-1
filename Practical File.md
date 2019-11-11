@@ -311,7 +311,7 @@
     Enter the value of c:19
     The average of a, b and c is 11.33
 
-**13. Program which can find the maximum of 2 numbers:-**
+**13. Program which can find the maximum among 2 numbers:-**
 
     #include<stdio.h>
     int main()
@@ -335,4 +335,37 @@
     Enter the 1st number:45.32
     Enter the 2nd number:45.48
     45.48 is greater than 45.32
+
+**14. Program which can find the maximum among 3 numbers:-** 
+
+    #include<stdio.h>
+    int main()
+    {
+        float a, b, c;
+        printf("Enter the 1st number:",a);
+        scanf("%f",&a);
+        printf("Enter the 2nd number:",b);
+        scanf("%f",&b);
+        printf("Enter the 3rd number:",c);
+        scanf("%f",&c);
+        if(a>b&&a>c)
+        {
+            printf("%.2f is greater among these three",a);
+        }
+        else if(b>c)
+        {
+            printf("%.2f is greater among these three",b);
+        }
+        else
+        {
+            printf("%.2f is greater among these three",c);
+        }
+        return 0;
+    } 
+    Output:-
+    Enter the 1st number:26.56
+    Enter the 2nd number:26.45
+    Enter the 3rd number:26.89
+    26.89 is greater among these three
+
 
