@@ -496,7 +496,7 @@
     19
     Its Buzz
 
-**18. Program of while loop:-
+**18. Program of while loop:-**
 
     #include<stdio.h>
     int main()
