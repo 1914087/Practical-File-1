@@ -368,4 +368,36 @@
     Enter the 3rd number:26.89
     26.89 is greater among these three
 
+**15. Program to solve fizz buzz program:-**
+
+    #include<stdio.h>
+    int main()
+    {
+        int n;
+        printf("Enter the integer:",n);
+        scanf("%d",&n);
+        if(n%3==0 && n%5==0)
+        {
+            printf("Its FizzBuzz");
+        }
+        else if(n%3==0)
+        {
+            printf("Its Fizz");
+        }
+        else if(n%5==0)
+        {
+            printf("Its Buzz");
+        }
+        else
+        {
+            printf("%d",n);
+        }
+        return 0;
+    }
+    Output:- 
+    Enter the integer:45
+    Its FizzBuzz
+
+
+
 
