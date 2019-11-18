@@ -1,4 +1,4 @@
-#          **PROGRAMMING FOR PROGRAM SOLVING ESC-18105** 
+#          **PROGRAMMING FOR PROBLEM SOLVING ESC-18105** 
 ##         **Sarvanshdeep Singh Sahota**
 ##         **Civil B2** 
 ##         **1914100**
